@@ -36,7 +36,7 @@ $ ./gradlew build
 $ java -jar build/libs/JWTNotes.jar
 ```
 ## Usage
-To use the application once it has built, download this [postman collection](https://red-rocket-177263.postman.co/workspace/Team-Workspace~7a93b06e-8521-436b-8b23-708f04071a50/collection/20934928-882d86a3-b571-40ec-a910-7993c323d471?action=share&creator=20934928) or use *cURL*.
+To use the application once it has built, either use this [postman collection](https://www.postman.com/red-rocket-177263/workspace/jwt-notes/collection/20934928-882d86a3-b571-40ec-a910-7993c323d471?action=share&creator=20934928) or use the commands below in *cURL*.
 
 - **POST**: http://localhost:8080/api/auth/register - Register new user.
 	```json
